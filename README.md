@@ -39,10 +39,10 @@ You should get successful output.
 
 ## Settings
 
-There's two more things to configure so we can have a good time:
+There's two more things we need to configure to have a good time:
 - Turn off deadlock detection.
 - Turn on PlusCal autotranslate.
-Do both of these by right-clicking and clicking Command Palette (or ctrl-shift-P) and use the prompt up the top to enter
-  >Preferences: Configure Language Specific Settings...
+Do both of these by right-clicking and clicking _Command Palette_ (or _ctrl-shift-p_) and use the prompt up the top to enter
+```>Preferences: Configure Language Specific Settings...```
 and then
-  TLA+
+```TLA+```
