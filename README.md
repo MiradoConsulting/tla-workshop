@@ -34,3 +34,15 @@ INIT Init
 NEXT Next
 ```
 Make sure both _hello.tla_ and _hello.cfg_ are saved, then in either file, right-click and click _Check Model with TLC_.
+
+You should get successful output.
+
+## Settings
+
+There's two more things to configure so we can have a good time:
+- Turn off deadlock detection.
+- Turn on PlusCal autotranslate.
+Do both of these by right-clicking and clicking Command Palette (or ctrl-shift-P) and use the prompt up the top to enter
+  >Preferences: Configure Language Specific Settings...
+and then
+  TLA+
