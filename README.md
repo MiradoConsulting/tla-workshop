@@ -31,4 +31,4 @@ Next ==
 INIT Init
 NEXT Next
 ```
-Make sure both files (.tla and .cfg) are saved, then in either file, right-click and click _Check Model with TLC_.
+Make sure both _hello.tla_ and _hello.cfg_ are saved, then in either file, right-click and click _Check Model with TLC_.
