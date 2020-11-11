@@ -69,3 +69,4 @@ This will open _settings.json_.  Copy in:
     "tlaplus.tlc.modelChecker.createOutFiles": false
 }
 ```
+* Save and close _settings.json_.
