@@ -48,12 +48,12 @@ Do both of these by right-clicking and clicking _Command Palette_ (or _ctrl-shif
 ```
 >Preferences: Configure Language Specific Settings...
 ```
-![language-specific-settings](https://github.com/MiradoConsulting/tla-workshop/blob/main/lang-settings.png)
+![language-specific-settings](https://github.com/MiradoConsulting/tla-workshop/blob/main/images/lang-settings.png)
 and then
 ```
 TLA+
 ```
-![tla](https://github.com/MiradoConsulting/tla-workshop/blob/main/tla.png)
+![tla](https://github.com/MiradoConsulting/tla-workshop/blob/main/images/tla.png)
 
 This will open _settings.json_.  Copy in:
 ```json
