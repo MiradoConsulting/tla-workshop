@@ -26,7 +26,9 @@ Next ==
 
 * Once the plugin is installed, right-click in the code window and hit _Check Model with TLC_.
 
-* You should get a prompt that there is no _hello.cfg_.  Let the prompt create the file for you.  Remove or comment things until _hello.cfg_ just contains:
+* You should get a prompt that there is no _hello.cfg_.  Let the prompt create the file for you.
+
+* Remove or comment things until _hello.cfg_ just contains:
 ```tla
 INIT Init
 NEXT Next
