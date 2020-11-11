@@ -26,7 +26,7 @@ Next ==
 
 * Once the plugin is installed, right-click in the code window and hit _Check Model with TLC_.
 
-* You should get a prompt that there is no hello.cfg.  Let the prompt create the cfg file for you.  Remove or comment things until _hello.cfg_ just contains:
+* You should get a prompt that there is no _hello.cfg_.  Let the prompt create the cfg file for you.  Remove or comment things until _hello.cfg_ just contains:
 INIT Init
 NEXT Next
 Make sure both files (.tla and .cfg) are saved, then in either file, right-click and click _Check Model with TLC_.
