@@ -6,7 +6,7 @@ We will use Visual Studio Code and the TLA+ plugin.
 
 * Install Visual Studio Code if you don't already have it
 
-* Save the following code as hello.tla:
+* Save the following code as _hello.tla_:
 
 ```tla
 -------- MODULE hello --------
