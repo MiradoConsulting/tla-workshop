@@ -50,3 +50,20 @@ and then
 ```
 TLA+
 ```
+
+This will open _settings.json_.  Copy in:
+```json
+{
+    "tlaplus.tlc.modelChecker.options": "-deadlock",
+    "[tlaplus]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.formatOnType": true,
+        "editor.detectIndentation": false,
+        "editor.codeActionsOnSave": {
+            "source": true
+        }
+    },
+    "tlaplus.tlc.modelChecker.createOutFiles": false
+}
+```
