@@ -41,7 +41,9 @@ You should get successful output.
 
 There's two more things we need to configure to have a good time:
 - Turn off deadlock detection.
+(In its usual mode, if the model checker cannot cannot reach any more states, it will fail with deadlock.  But we want to prove things about programs which terminate _successfully_)
 - Turn on PlusCal autotranslate.
+(PlusCal is an imperative-looking language which translates to TLA+)
 Do both of these by right-clicking and clicking _Command Palette_ (or _ctrl-shift-p_) and use the prompt up the top to enter
 ```
 >Preferences: Configure Language Specific Settings...
